@@ -6,6 +6,7 @@ const CanvasLoader = () => {
     <Html
       as='div'
       center
+      position={[0, -2, 0]}
       style={{
         display: "flex",
         justifyContent: "center",
